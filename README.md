@@ -1,3 +1,8 @@
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=35&fontSize=30&desc=Glad%20You're%20Here!&descAlign=50&descAlignY=60" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Mayank</h1>
 
 <p align="center">
@@ -18,7 +23,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,figma,firebase,postman,netlify,gcp,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,figma,firebase,postman,netlify,gcp,aws&theme=light" alt="Skill Icons" />
 </p>
 
 <details>
@@ -38,6 +43,5 @@ Tools: Git • GitHub • VS Code • Postman • Linux • Figma • TLP
 
 </details>
 ### 🤝 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank" title="LinkedIn"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /> </a> &nbsp; <a href="https://github.com/Mayank230604" target="_blank" title="GitHub"> <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> </a> &nbsp; <a href="mailto:mayankrajpal38@gmail.com" target="_blank" title="Gmail"> <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /> </a> </p> 
-
-
+<div align="center"> <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank" title="LinkedIn"> <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/Mayank230604" target="_blank" title="GitHub"> <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" /> </a> &nbsp; <a href="mailto:mayankrajpal38@gmail.com" target="_blank" title="Gmail"> <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+<!-- Footer Animation --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/> </p> 
