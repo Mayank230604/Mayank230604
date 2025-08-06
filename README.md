@@ -33,3 +33,8 @@ Databases: MongoDB • MySQL
 Cloud/APIs: Firebase • Netlify • Google Cloud • AWS • OpenAI APIs
 
 Tools: Git • GitHub • VS Code • Postman • Linux • Figma • TLP
+
+
+### 📫 Connect with Me
+
+<p align="center"> <a href="mailto:mayankrajpal38@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Mayank230604" target="_blank"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
