@@ -1,82 +1,43 @@
-<h1 align="center">Hi 👋, I'm Mayank Adeva</h1>
-<h3 align="center">A passionate and curious CS undergrad from India</h3>
+<h1 align="center">Hi there 👋, I'm Mayank</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;GenAI+and+Web+Dev+Enthusiast;Always+Learning+New+Things..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Undergrad.;Tech+Enthusiast+%7C+Dev+%7C+Learner;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **MERN stack and GenAI tool integrations**
-- 👨‍💻 All of my projects are available at: [My GitHub](https://github.com/Mayank230604)
-- 💬 Ask me about **JavaScript, Python, Frontend Development, and AI tools**
-- 📫 How to reach me: **mayankrajpal38@gmail.com**
-- ⚡ Fun fact: I drink code and debug dreams ☕💻
-
----
-
-### 💼 Certifications
-
-- ✅ **Certified Web Developer** – W3Schools, 2021  
-- ✅ **AWS Certified Cloud Practitioner** – Amazon Web Services, 2022  
-- ✅ **Google Analytics Certification** – Google, 2020  
-- ✅ **JavaScript Algorithms and Data Structures** – freeCodeCamp, 2020  
+- 🎓 CS Undergraduate passionate about building meaningful projects  
+- ⚡ Currently exploring Web Dev, GenAI, and Open Source  
+- 🧠 Obsessed with solving real-world problems using tech  
+- 🌱 Always learning, always growing  
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,html,css,tailwind,python,cpp,java,git,github,figma,linux,vscode,bash" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,figma,firebase,postman,netlify,gcp,aws&theme=dark" />
 </p>
 
----
+<details>
+<summary>🧰 <b>Text Version (For Accessibility)</b></summary>
 
-### 📈 GitHub Stats & Streak
+```markdown
+Languages: Python • C/C++ • JavaScript • TypeScript • HTML • CSS • SQL
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayank230604&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170px" />
-  <img src="https://streak-stats.demolab.com/?user=Mayank230604&theme=radical&hide_border=true" height="170px" />
-</div>
+Frameworks/Libraries: React.js • Node.js • Express.js • Bootstrap • Tailwind CSS
 
----
+Databases: MongoDB • MySQL
 
-### 🧠 Most Used Languages
+Cloud/APIs: Firebase • Netlify • Google Cloud • AWS • OpenAI APIs
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank230604&layout=compact&theme=radical&hide_border=true" />
-</p>
+Tools: Git • GitHub • VS Code • Postman • Linux • Figma • TLP
+```
 
----
-
-### 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank230604&theme=radical&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
+</details>
 ### 🤝 Connect with Me
+<p align="center"> <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank" title="LinkedIn"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /> </a> &nbsp; <a href="https://github.com/Mayank230604" target="_blank" title="GitHub"> <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> </a> &nbsp; <a href="mailto:mayankrajpal38@gmail.com" target="_blank" title="Gmail"> <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /> </a> </p> 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Mayank230604" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:mayankrajpal38@gmail.com" target="_blank" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
-  </a>
-</p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
