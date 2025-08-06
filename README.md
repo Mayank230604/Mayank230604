@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#58A6FF">Mayank</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Computer+Science+Undergrad.;Tech+Enthusiast+%7C+Dev+%7C+Lifelong+Learner;I+build+cool+things+with+code+%F0%9F%92%BB;Open+Source+%7C+GenAI+%7C+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Undergrad.;Tech+Enthusiast+%7C+Dev+%7C+Learner;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
