@@ -39,7 +39,7 @@ Tools: Git • GitHub • VS Code • Postman • Linux • Figma • TLP
 
 ### 🤝 Connect with Me
 
-<p style="display: flex; justify-content: center; gap: 20px;">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
