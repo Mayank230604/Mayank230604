@@ -47,5 +47,5 @@ Tools: Git • GitHub • VS Code • Postman • Linux • Ubuntu
 <div align="center"> <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/Mayank230604" target="_blank"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> &nbsp; <a href="mailto:mayankrajpal38@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
 
 <p align="center">
-  <img src="https://github.com/Mayank230604/Mayank230604/blob/main/BlackCat.jpg" alt="Coding Cat Banner" width="80%" />
+  <img src="https://github.com/Mayank230604/Mayank230604/blob/main/BlackCat.jpg" alt="Coding Cat Banner" width="100%" />
 </p>
