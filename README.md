@@ -1,18 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Mayank</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Undergrad;Passionate+Web+%26+AI+Developer;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Undergrad.;Tech+Enthusiast+%7C+Dev+%7C+Learner;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-
-- 🎓 CS Undergraduate | Passionate Developer  
-- ⚡ Exploring Web Dev, GenAI, and Cloud Platforms  
-- 💻 Always building, always learning  
-- 🧠 Curious about real-world applications of tech  
-- 🤝 Open to collaboration & innovation
+- 🧑‍🎓 CS Undergraduate | Passionate about building meaningful projects  
+- ⚡ Exploring Web Development, GenAI tools, and Open Source  
+- 🛠️ Love solving real-world problems with code  
+- 💡 Always eager to learn and grow  
 
 ---
 
