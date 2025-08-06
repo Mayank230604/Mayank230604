@@ -1,29 +1,33 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=35&fontSize=30&desc=Glad%20You're%20Here!&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=160&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=35&fontSize=32&desc=Glad%20You're%20Here!&descAlign=50&descAlignY=65" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Mayank</h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#58A6FF">Mayank</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Undergrad.;Tech+Enthusiast+%7C+Dev+%7C+Learner;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Computer+Science+Undergrad.;Tech+Enthusiast+%7C+Dev+%7C+Lifelong+Learner;I+build+cool+things+with+code+%F0%9F%92%BB;Open+Source+%7C+GenAI+%7C+Web+Dev" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### ✨ About Me
 
-- 🎓 CS Undergraduate passionate about building meaningful projects  
-- ⚡ Currently exploring Web Dev, GenAI, and Open Source  
-- 🧠 Obsessed with solving real-world problems using tech  
-- 🌱 Always learning, always growing  
+- 🎓 CS Undergrad passionate about **turning ideas into real-world applications**  
+- ⚡ Currently exploring **Web Dev, GenAI, Open Source**  
+- 🧠 Driven by curiosity and a love for solving **complex challenges**  
+- 🌱 Committed to **lifelong learning** and upskilling  
 
 ---
 
-### 🛠️ Languages & Tools
+### 🔧 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,firebase,postman,gcp,aws&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,firebase,postman,gcp,aws&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayank230604&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 <details>
@@ -43,6 +47,8 @@ Tools: Git • GitHub • VS Code • Postman • Linux • Figma • TLP
 
 </details>
 
-### 🤝 Connect with Me
-<div align="center"> <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank" title="LinkedIn"> <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/Mayank230604" target="_blank" title="GitHub"> <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" /> </a> &nbsp; <a href="mailto:mayankrajpal38@gmail.com" target="_blank" title="Gmail"> <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
-<!-- Footer Animation --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/> </p> 
+### 📫 Connect with Me
+<div align="center"> <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/Mayank230604" target="_blank"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> &nbsp; <a href="mailto:mayankrajpal38@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+<!-- Footer Animation --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/> </p>
+
+
