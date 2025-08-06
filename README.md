@@ -39,18 +39,15 @@ Tools: Git • GitHub • VS Code • Postman • Linux • Figma • TLP
 
 ### 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Mayank230604" target="_blank" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://github.com/Mayank230604" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
-  &nbsp;
-  <a href="mailto:mayankrajpal38@gmail.com" target="_blank" title="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="mailto:mayankrajpal38@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
 </p>
-
 
