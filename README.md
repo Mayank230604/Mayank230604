@@ -34,15 +34,15 @@
 <summary>🧰 <b>Text Version (For Accessibility)</b></summary>
 
 ```markdown
-Languages: Python • C/C++ • JavaScript • TypeScript • HTML • CSS • SQL
+Languages: Python • C/C++ • JavaScript • HTML • CSS • SQL
 
 Frameworks/Libraries: React.js • Node.js • Express.js • Bootstrap • Tailwind CSS
 
 Databases: MongoDB • MySQL
 
-Cloud/APIs: Firebase • Netlify • Google Cloud • AWS • OpenAI APIs
+Cloud/APIs: Firebase • Google Cloud • AWS • OpenAI APIs
 
-Tools: Git • GitHub • VS Code • Postman • Linux • Figma • TLP
+Tools: Git • GitHub • VS Code • Postman • Linux 
 ```
 
 </details>
