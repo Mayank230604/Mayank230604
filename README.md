@@ -1,6 +1,6 @@
-<!-- Profile Header -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=160&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=35&fontSize=32&desc=Glad%20You're%20Here!&descAlign=50&descAlignY=65" />
+  <img src="https://user-images.githubusercontent.com/00000000/your-banner.jpg" alt="Coding Cat Banner" width="80%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#58A6FF">Mayank</span></h1>
@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Undergrad.;Tech+Enthusiast+%7C+Dev+%7C+Learner;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+
 
 ---
 
