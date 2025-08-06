@@ -35,6 +35,8 @@ Cloud/APIs: Firebase • Netlify • Google Cloud • AWS • OpenAI APIs
 Tools: Git • GitHub • VS Code • Postman • Linux • Figma • TLP
 
 ```
+
+
 ### 🤝 Connect with Me
 
 <p align="center">
