@@ -46,6 +46,4 @@ Tools: Git • GitHub • VS Code • Postman • Linux
 
 ### 📫 Connect with Me
 <div align="center"> <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/Mayank230604" target="_blank"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> &nbsp; <a href="mailto:mayankrajpal38@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
-<!-- Footer Animation --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/> </p>
-
 
