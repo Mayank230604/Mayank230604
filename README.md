@@ -39,4 +39,4 @@ Tools: Git • GitHub • VS Code • Postman • Linux • Figma • TLP
 </details>
 
 ### 🤝 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank" title="LinkedIn"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /> </a> &nbsp; <a href="https://github.com/Mayank230604" target="_blank" title="GitHub"> <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> </a> &nbsp; <a href="mailto:mayankrajpal38@gmail.com" target="_blank" title="Gmail"> <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /> </a> </p> ```
+<p align="center"> <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank" title="LinkedIn"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /> </a> &nbsp; <a href="https://github.com/Mayank230604" target="_blank" title="GitHub"> <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> </a> &nbsp; <a href="mailto:mayankrajpal38@gmail.com" target="_blank" title="Gmail"> <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /> </a> </p>
