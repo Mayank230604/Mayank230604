@@ -3,7 +3,7 @@
   <img src="https://github.com/Mayank230604/Mayank230604/blob/main/Cat.jpg" alt="Coding Cat Banner" width="80%" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#58A6FF">Mayank</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#58A6FF">Mayank</span><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Undergrad.;Tech+Enthusiast+%7C+Dev+%7C+Learner;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" />
