@@ -51,14 +51,3 @@ Tools: Git • GitHub • VS Code • Postman • Linux • Figma • TLP
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayank230604&show_icons=true&theme=radical" alt="Mayank's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank230604&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank230604&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
