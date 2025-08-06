@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/your-banner.jpg" alt="Coding Cat Banner" width="80%" />
+  <img src="https://github.com/Mayank230604/Mayank230604Cat.jpg" alt="Coding Cat Banner" width="80%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#58A6FF">Mayank</span></h1>
