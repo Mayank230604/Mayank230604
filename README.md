@@ -34,7 +34,29 @@ Cloud/APIs: Firebase • Netlify • Google Cloud • AWS • OpenAI APIs
 
 Tools: Git • GitHub • VS Code • Postman • Linux • Figma • TLP
 
+```
+### 🤝 Connect with Me
 
-### 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Mayank230604" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mayankrajpal38@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-<p align="center"> <a href="mailto:mayankrajpal38@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Mayank230604" target="_blank"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayank230604&show_icons=true&theme=radical" alt="Mayank's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank230604&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank230604&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
