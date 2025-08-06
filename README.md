@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 CS Undergrad passionate about **turning ideas into real-world applications**  
-- ⚡ Currently exploring **Web Dev, GenAI, Open Source**  
+- ⚡ Currently exploring **Web Dev, AI/ML, Open Source**  
 - 🧠 Driven by curiosity and a love for solving **complex challenges**  
 - 🌱 Committed to **lifelong learning** and upskilling  
 
