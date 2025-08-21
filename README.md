@@ -23,7 +23,7 @@
 ### 🔧 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,bootstrap,twjs,mongodb,mysql,git,github,sklearn,vscode,linux,ubuntu,firebase,postman,gcp,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,bootstrap,twcss,mongodb,mysql,git,github,sklearn,vscode,linux,ubuntu,firebase,postman,gcp,aws&theme=dark" />
 </p>
 
 <details>
