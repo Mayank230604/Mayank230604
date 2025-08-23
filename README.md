@@ -23,7 +23,7 @@
 ### 🔧 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,bootstrap,tailwind,sklearn,mongodb,mysql,git,github,vscode,linux,ubuntu,firebase,postman,gcp,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,bootstrap,sklearn,mongodb,mysql,git,github,vscode,linux,ubuntu,firebase,gcp,aws&theme=dark" />
 </p>
 
 <details>
@@ -32,13 +32,13 @@
 ```markdown
 Languages: Python • C/C++ • JavaScript • HTML • CSS • SQL
 
-Frameworks/Libraries: React.js • Node.js • Express.js • Bootstrap • Tailwind CSS • Scikit-learn
+Frameworks/Libraries: React.js • Node.js • Express.js • Bootstrap • Scikit-learn
 
 Databases: MongoDB • MySQL
 
 Cloud/APIs: Firebase • Google Cloud • AWS • OpenAI APIs
 
-Tools: Git • GitHub • VS Code • Postman • Linux • Ubuntu
+Tools: Git • GitHub • VS Code • Linux • Ubuntu
 ```
 
 </details>
