@@ -43,6 +43,19 @@ Tools: Git • GitHub • VS Code • Linux • Ubuntu
 
 </details>
 
-### 📫 Connect with Me
-<div align="center"> <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> &nbsp;&nbsp; <a href="https://github.com/Mayank230604" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> &nbsp;&nbsp; <a href="mailto:mayankrajpal38@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </div>
+<h3 align="center">📫 Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mayank230604" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mayankrajpal38@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
+
 
