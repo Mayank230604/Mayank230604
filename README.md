@@ -6,10 +6,6 @@
 <h1 align="center">Hi, I'm <span style="color:#58A6FF">Mayank!</span> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 
-### 🔧 Languages & Tools 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,bootstrap,sklearn,mongodb,mysql,git,github,vscode,linux,ubuntu,firebase,gcp,aws,msexcel&theme=dark" /> </p>
-
-
 ---
 ### 👨‍💻 About Me
 
