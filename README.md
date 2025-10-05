@@ -13,7 +13,7 @@
 ---
 ### 👨‍💻 About Me
 
-- 🎓 CS Undergrad passionate about **turning ideas into real-world applications**  
+- 🎓 CS Graduate passionate about **turning ideas into real-world applications**  
 - ⚡ Currently exploring **Web Dev, AI/ML, Open Source**  
 - 🧠 Driven by curiosity and a love for solving **complex challenges**  
 - 🌱 Committed to **lifelong learning** and upskilling  
