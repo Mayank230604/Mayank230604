@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Graduate.;Tech+Enthusiast+%7C+Dev+%7C+Learner;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" /> </p>
 
-
+---
 ### 👨‍💻 About Me
 
 - 🎓 CS Graduate passionate about **turning ideas into real-world applications**  
