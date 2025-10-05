@@ -42,20 +42,21 @@ Tools: Git • GitHub • VS Code • Linux • Ubuntu
 ```
 
 </details>
+
 <h3 align="center">📫 Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank">
-    <img src="https://img.icons8.com/color-glass/48/linkedin.png" alt="LinkedIn"/>
+
+<p align="center" style="background: linear-gradient(180deg, #ffffff 0%, #f9f9f9 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: inline-block;">
+  <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" style="transition: transform 0.3s ease;"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mayank230604" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+  <a href="https://github.com/Mayank230604" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="transition: transform 0.3s ease;"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mayankrajpal38@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+  <a href="mailto:mayankrajpal38@gmail.com" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="45" height="45" style="transition: transform 0.3s ease;"/>
   </a>
 </p>
+
 
 
 
