@@ -20,7 +20,8 @@
 ### 🔧 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,bootstrap,sklearn,mongodb,mysql,git,github,vscode,linux,ubuntu,firebase,gcp,aws,sheets&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,bootstrap,sklearn,mongodb,mysql,git,github,vscode,linux,ubuntu,firebase,gcp,aws,
+    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45" alt="Excel" />&theme=dark" />
 </p>
 
 <details>
