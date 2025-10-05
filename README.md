@@ -41,21 +41,20 @@ Cloud/APIs: Firebase • Google Cloud • AWS • OpenAI APIs
 Tools: Git • GitHub • VS Code • Linux • Ubuntu
 ```
 
-</details>
-
 <h3 align="center">📫 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.icons8.com/color-glass/48/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Mayank230604" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:mayankrajpal38@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
   </a>
 </p>
+
 
 
