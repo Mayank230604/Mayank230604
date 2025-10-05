@@ -5,19 +5,9 @@
 
 <h1 align="center">Hi, I'm <span style="color:#58A6FF">Mayank!</span> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,bootstrap,sklearn,mongodb,mysql,git,github,vscode,linux,ubuntu,firebase,gcp,aws&theme=dark" style="transition: transform 0.3s ease;"/>
-  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="Excel" width="48" height="48" style="transition: transform 0.3s ease; vertical-align: middle;"/>
-</p>
 
-<script>
-  const icons = document.querySelectorAll('p img');
-  icons.forEach(icon => {
-    icon.addEventListener('mouseover', () => icon.style.transform = 'scale(1.1)');
-    icon.addEventListener('mouseout', () => icon.style.transform = 'scale(1)');
-  });
-</script>
-
+### 🔧 Languages & Tools 
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,bootstrap,sklearn,mongodb,mysql,git,github,vscode,linux,ubuntu,firebase,gcp,aws,msexcel&theme=dark" /> </p>
 
 
 ---
