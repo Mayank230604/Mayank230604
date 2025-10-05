@@ -6,8 +6,10 @@
 <h1 align="center">Hi, I'm <span style="color:#58A6FF">Mayank!</span> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Gratuate.;Tech+Enthusiast+%7C+Dev+%7C+Learner;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,bootstrap,sklearn,mongodb,mysql,git,github,vscode,linux,ubuntu,firebase,gcp,aws&theme=dark" />
+  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="Excel" width="45" height="45" style="margin-left:8px;"/>
 </p>
+
 
 
 ---
