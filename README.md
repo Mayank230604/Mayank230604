@@ -41,6 +41,7 @@ Cloud/APIs: Firebase • Google Cloud • AWS • OpenAI APIs
 Tools: Git • GitHub • VS Code • Linux • Ubuntu
 ```
 
+</details>
 <h3 align="center">📫 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank">
