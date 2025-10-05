@@ -23,7 +23,7 @@
 ### 🔧 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,bootstrap,sklearn,mongodb,mysql,git,github,vscode,linux,ubuntu,firebase,gcp,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,bootstrap,sklearn,mongodb,mysql,git,github,vscode,linux,ubuntu,firebase,gcp,aws,excel&theme=dark" />
 </p>
 
 <details>
@@ -38,7 +38,7 @@ Databases: MongoDB • MySQL
 
 Cloud/APIs: Firebase • Google Cloud • AWS • OpenAI APIs
 
-Tools: Git • GitHub • VS Code • Linux • Ubuntu
+Tools: Git • GitHub • VS Code • Excek • Linux • Ubuntu
 ```
 
 </details>
