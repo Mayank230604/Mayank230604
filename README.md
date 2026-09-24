@@ -29,16 +29,13 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,postgresql,mysql,git,github,jupyter,vscode&theme=dark&perline=7"
-    alt="Python, PostgreSQL, MySQL, Git, GitHub, Jupyter Notebook, VS Code"
+    src="https://skillicons.dev/icons?i=python,postgresql,mysql,git,github,vscode&theme=dark&perline=6"
+    alt="Python, PostgreSQL, MySQL, Git, GitHub, VS Code"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=aws,gcp,tensorflow,sklearn,pytorch&theme=dark&perline=5"
-    alt="AWS, Google Cloud, TensorFlow, Scikit-learn, PyTorch"
-  />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
 
 <p align="center">
