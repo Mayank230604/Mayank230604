@@ -87,7 +87,7 @@ An interactive dashboard exploring orders, customers, products, and employee per
 A SQL analytics project using views, materialized views, JSON export functions, and reporting across sales, customers, products, stores, and marketing.
 
 <p>
-  <a href="REPLACE_WITH_RETAILMART_REPOSITORY_LINK">
+  <a href="https://github.com/Mayank230604/Retailmart_Enterprise_Analytics">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View RetailMart project" />
   </a>
 </p>
