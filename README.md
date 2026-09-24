@@ -77,7 +77,7 @@ I’m an aspiring Data Analyst who enjoys making messy data useful—through tho
 An interactive dashboard exploring orders, customers, products, and employee performance. Built to turn operational data into clear, decision-ready insights.
 
 <p>
-  <a href="REPLACE_WITH_NORTHWIND_REPOSITORY_LINK">
+  <a href="[REPLACE_WITH_NORTHWIND_REPOSITORY_LINK](https://github.com/Mayank230604/NorthWind_Traders_Analytics)">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Northwind project" />
   </a>
 </p>
