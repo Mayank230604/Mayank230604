@@ -1,60 +1,73 @@
-<!-- Profile Banner -->
+<!-- Profile banner -->
 <p align="center">
-  <img src="https://github.com/Mayank230604/Mayank230604/blob/main/Cat.jpg" alt="Coding Cat Banner" width="80%" />
+  <img src="https://github.com/Mayank230604/Mayank230604/blob/main/Cat.jpg" alt="Mayank Adeva profile banner" width="80%" />
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#58A6FF">Mayank!</span> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Hi, I'm Mayank Adeva 👋</h1>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Graduate.;Tech+Enthusiast+%7C+Dev+%7C+Learner;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" /> </p>
+<p align="center">
+  <b>Entry-Level Data Analyst | SQL, Power BI, Excel, PostgreSQL & Python</b>
+</p>
 
----
-### 👨‍💻 About Me
-
-- 🎓 CS Graduate passionate about **turning ideas into real-world applications**  
-- ⚡ Currently exploring **Web Dev, AI/ML, Open Source**  
-- 🧠 Driven by curiosity and a love for solving **complex challenges**  
-- 🌱 Committed to **lifelong learning** and upskilling  
+<p align="center">
+  I turn raw data into dashboards, reports, and business insights.
+</p>
 
 ---
 
-### 🔧 Languages & Tools
+## 📊 About Me
+
+- 🎓 Computer Science graduate from Ramanujan College, University of Delhi
+- 📈 Aspiring Data Analyst with hands-on experience in SQL, PostgreSQL, Excel, Power BI, and Python
+- 🔍 Interested in data cleaning, exploratory data analysis, KPI reporting, and dashboard development
+- 🧠 Comfortable with joins, subqueries, CTEs, window functions, aggregations, and data visualization
+- 🌱 Currently building portfolio projects around sales, customer, retail, and business performance analytics
+
+---
+
+## 🛠️ Analytics Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,bootstrap,sklearn,mongodb,mysql,postgresql,git,github,vscode,linux,ubuntu,firebase,gcp,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,jupyter,vscode&theme=dark" alt="Python, PostgreSQL, Git, GitHub, Jupyter, VS Code" />
 </p>
 
-<details>
-<summary>🧰 <b>Text Version (For Accessibility)</b></summary>
+<p align="center">
+  <b>SQL</b> • <b>PostgreSQL</b> • <b>Power BI</b> • <b>Excel</b> • <b>Python</b> • <b>Pandas</b> • <b>NumPy</b> • <b>Power Query</b> • <b>Git</b>
+</p>
 
-```markdown
-Languages: Python • C/C++ • JavaScript • HTML • CSS • SQL
+---
 
-Frameworks/Libraries: React.js • Node.js • Express.js • Bootstrap • Scikit-learn
+## 🚀 Featured Projects
 
-Databases: MongoDB • MySQL • PostgreSQL
+### 📈 Northwind Traders Analytics — Power BI
+Interactive business dashboard analyzing orders, customers, products, and employee performance. Includes KPI cards and visualizations for data-driven decisions.
 
-Cloud/APIs: Firebase • Google Cloud • AWS • OpenAI APIs
+🔗 [View Project](REPLACE_WITH_NORTHWIND_REPOSITORY_LINK)
 
-Tools: Git • GitHub • VS Code • Linux • Ubuntu
-```
+### 🗃️ RetailMart Enterprise Analytics — PostgreSQL
+Enterprise analytics project featuring SQL views, materialized views, JSON export functions, and reporting across sales, customers, products, stores, operations, and marketing.
 
-</details>
+🔗 [View Project](REPLACE_WITH_RETAILMART_REPOSITORY_LINK)
 
-<h3 align="center">📫 Connect with Me</h3>
+### 📊 Dynamic Retail Performance Dashboard — Excel
+Excel dashboard built with PivotTables, Power Query, slicers, advanced formulas, and KPI tracking for retail performance analysis.
 
-<p align="center" style="background: linear-gradient(180deg, #ffffff 0%, #f8f8f8 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: inline-block;">
-  <a href="https://www.linkedin.com/in/mayank-adeva-267579335/" target="_blank" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" style="transition: transform 0.3s ease;"/>
+🔗 [View Project](REPLACE_WITH_EXCEL_DASHBOARD_REPOSITORY_LINK)
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-adeva-267579335/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://github.com/Mayank230604" target="_blank" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="45" height="45" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="mailto:mayankrajpal38@gmail.com" target="_blank" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="45" height="45" style="transition: transform 0.3s ease;"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mayank230604">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" height="40" />
   </a>
 </p>
 
-
-
-
-
+<p align="center">
+  <i>Open to entry-level Data Analyst opportunities and analytics collaborations.</i>
+</p>
