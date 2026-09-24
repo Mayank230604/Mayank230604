@@ -28,11 +28,32 @@
 ## 🛠️ Analytics Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,jupyter,vscode&theme=dark" alt="Python, PostgreSQL, Git, GitHub, Jupyter, VS Code" />
+  <img
+    src="https://skillicons.dev/icons?i=python,postgresql,mysql,git,github,jupyter,vscode&theme=dark&perline=7"
+    alt="Python, PostgreSQL, MySQL, Git, GitHub, Jupyter Notebook, VS Code"
+  />
 </p>
 
 <p align="center">
-  <b>SQL</b> • <b>PostgreSQL</b> • <b>Power BI</b> • <b>Excel</b> • <b>Python</b> • <b>Pandas</b> • <b>NumPy</b> • <b>Power Query</b> • <b>Git</b>
+  <img
+    src="https://skillicons.dev/icons?i=aws,gcp,tensorflow,sklearn,pytorch&theme=dark&perline=5"
+    alt="AWS, Google Cloud, TensorFlow, Scikit-learn, PyTorch"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+<p align="center">
+  <b>Data Analysis:</b> SQL, Excel, Power BI, Python, Pandas, NumPy, EDA, KPI Reporting<br />
+  <b>Databases:</b> PostgreSQL, MySQL<br />
+  <b>Cloud & AI/ML:</b> AWS, Google Cloud, Scikit-learn, TensorFlow, PyTorch<br />
+  <b>Tools:</b> Jupyter Notebook, Git, GitHub, VS Code
 </p>
 
 ---
