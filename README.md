@@ -31,7 +31,7 @@
 
 🎓 Computer Science graduate from **Ramanujan College, University of Delhi**
 
-I am an entry-level Data Analyst who enjoys turning raw data into useful dashboards, clear reports, and practical business insights.
+I am an Data Analyst who enjoys turning raw data into useful dashboards, clear reports, and practical business insights.
 
 - 📈 Skilled in SQL, PostgreSQL, Excel, Power BI, and Python
 - 🔍 Interested in data cleaning, exploratory data analysis, KPI reporting, and dashboard development
