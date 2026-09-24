@@ -97,7 +97,7 @@ A SQL analytics project using views, materialized views, JSON export functions, 
 An interactive Excel dashboard built with PivotTables, Power Query, slicers, formulas, and KPI tracking to reveal retail performance at a glance.
 
 <p>
-  <a href="REPLACE_WITH_EXCEL_DASHBOARD_REPOSITORY_LINK">
+  <a href="https://github.com/Mayank230604/Dynamic_Retail_Dashboard">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Excel dashboard project" />
   </a>
 </p>
