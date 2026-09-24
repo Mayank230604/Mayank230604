@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Mayank Adeva 👋</h1>
 
 <p align="center">
-  <b>Entry-Level Data Analyst | SQL, Power BI, Excel, PostgreSQL & Python</b>
+  <b>Data Analyst | SQL, Power BI, Excel, PostgreSQL & Python</b>
 </p>
 
 <p align="center">
