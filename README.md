@@ -63,7 +63,7 @@ I’m an aspiring Data Analyst who enjoys making messy data useful—through tho
 </p>
 
 <p align="center">
-  <b>Analytics:</b> SQL · Excel · Power BI · Python · Pandas · NumPy · EDA · KPI Reporting<br/>
+  <b>Analytics:</b> SQL · Excel · Power BI · Python · Pandas · NumPy · EDA · KPI Reporting · DAX<br/>
   <b>Databases:</b> PostgreSQL · MySQL<br/>
   <b>Tools:</b> Jupyter Notebook · Git · GitHub · VS Code
 </p>
