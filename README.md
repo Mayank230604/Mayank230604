@@ -107,7 +107,3 @@ An interactive Excel dashboard built with PivotTables, Power Query, slicers, for
 <p align="center">
   <i>Open to entry-level Data Analyst roles, meaningful collaborations, and interesting data problems.</i>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayank230604&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
-</p>
